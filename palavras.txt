@@ -6,4 +6,3 @@ jabuticaba
 arroz
 futebol
 github
-computador
